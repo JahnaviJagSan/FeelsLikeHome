@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url("bg2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+ul li{
+    cursor: pointer;
+    font-weight: 500;
+}
+li:hover{
+    color: black;
+}

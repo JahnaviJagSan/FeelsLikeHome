@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>FeelsLikeHome - Online PG Accommodation System</title>
+    <link rel="stylesheet" href="style1.css" />
+    
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <!--NAVIGATION bar START-->
+    <nav
+      class="navbar sticky-top navbar-expand-lg navbar-dark"
+      style="background-color: #310202"
+    >
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+          <img src="logo2.png" alt="Bootstrap" width="280" height="65" />
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNavAltMarkup"
+          aria-controls="navbarNavAltMarkup"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div
+          class="collapse navbar-collapse justify-content-center"
+          id="navbarNavAltMarkup"
+        >
+          <div class="navbar-nav fs-5">
+            <a class="nav-link" aria-current="page" href="home.php">Home</a>
+            <a class="nav-link active" href="about.php">About</a>
+            <a class="nav-link" href="pgs.php">PGs</a>
+            <a class="nav-link" href="contact.php">Contact Us</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button class="btn btn-outline-light mx-1" type="button">Login</button>
+  </div>
+      </div>
+        <button class="btn btn-outline-light mx-2" type="button">SignUp</button>
+      </div>
+    </nav>
+    <!--NAVIGATION bar END-->
+
+    <!--MAIN BODY START-->
+    <div class="mainbody">
+    <h1>About Us</h1>
+    <p>Feels like Home is a technology based platform for booking PGs by location with specific requirements by filtering by Location,Price, Room Type, Gender, Food etc. Currently, we have launched the Platform in Delhi only. We will soon expand to all major cities of the country.
+    </p>
+    <h2>Our Aim</h2>
+    <p>Our Aim and motto are simple and singular. To provide the guests with a PG that feels like homes best fitting their needs and the hometowners a guest who fits right in. To attain this we work with hometowners and guests to give everyone involved the best possible experience.
+     </p>
+  </div>
+
+    <!--MAIN BODY END-->
+    <!-- Footer -->
+  <footer class="text-center text-white" style="background-color: #310202">
+    
+    <!-- Grid container -->
+    <div class="container ">      
+      <hr class="my-5" />
+
+      <!--Can add something in footer later-->
+      
+      </section>
+    </div>
+    <!-- Grid container -->
+  
+    <!-- Copyright -->
+    <div
+         class="text-center p-3"
+         style="background-color: rgba(0, 0, 0, 0.2)"
+         >
+      © 2023 Copyright :
+      <a class="text-white" href="#"
+         >FeelsLikeHome.co.in</a
+        >
+    </div>
+    <!-- Copyright -->
+  </footer>
+  <!-- Footer -->
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0;
+}
+.carousel slide{
+    height: 100px;
+    width: 300px;
+}
+
+h2{
+    font-size: large;
+}
+
+card-text.p{
+    width: 55vw;
+    color: black;
+    font-weight: 550;
+    font-size: medium;
+}
